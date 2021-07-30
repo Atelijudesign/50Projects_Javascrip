@@ -1,2 +1,2 @@
-# Expandin Effect
+# Expandin_Effect
 50 Projects In 50 Days - HTML, CSS &amp; JavaScript
